@@ -1,2 +1,3 @@
 # Ctrip-Crawler
-携程酒店爬虫
+
+tools: urllib/urllib2, BeautifulSoup 
